@@ -1,0 +1,8 @@
+{
+  "welcome": "Bienvenue dans l'extension {{target}}!",
+  "iWouldLikeAFreeGiftWithMyOrder": "Je souhaite recevoir un cadeau gratuit avec ma commande",
+  "addAFreeGiftToMyOrder": "Ajouter un cadeau gratuit à ma commande",
+  "attributeChangesAreNotSupported": "Les modifications d'attribut ne sont pas prises en charge dans cette commande",
+  "longDeliveryTitle": "Certains articles de votre commande ont des délais de livraison longs.",
+  "longDeliveryDescription": "Veuillez vérifier le délai de livraison estimé avant de passer la commande."
+}
